@@ -57,7 +57,6 @@ If Obstacle is Detected:
 ![traf2](https://github.com/user-attachments/assets/e739f2dc-ddb8-418b-a2dc-ab627b69ce5f)
 
 
-
 If no Obstacle is Detected:
 
 ![traf1](https://github.com/user-attachments/assets/27010d5d-335e-44b5-80da-5b57062a41d5)
@@ -66,10 +65,7 @@ If no Obstacle is Detected:
 Video Demonstration:
 
 
-
-
-https://github.com/user-attachments/assets/e0603909-e108-4b86-84a6-265a6329d257
-
+https://github.com/user-attachments/assets/678e04af-ee1a-4bdb-ac93-8bddf936d241
 
 
 Acknowledgments

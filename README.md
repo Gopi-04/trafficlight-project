@@ -63,6 +63,14 @@ If no Obstacle is Detected:
 ![traf1](https://github.com/user-attachments/assets/27010d5d-335e-44b5-80da-5b57062a41d5)
 
 
+Video Demonstration:
+
+
+
+
+https://github.com/user-attachments/assets/e0603909-e108-4b86-84a6-265a6329d257
+
+
 
 Acknowledgments
 Arduino community for the microcontroller and support.

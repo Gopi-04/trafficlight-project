@@ -2,6 +2,7 @@
 Traffic Information Acquisition System
 
 Overview
+
 The Traffic Information Acquisition System is designed to improve safety and efficiency in traffic management. Utilizing Arduino microcontrollers, ultrasonic sensors, relay modules, and LED lights, this system provides effective traffic control at street intersections and curved paths where visibility is limited.
 
 Components

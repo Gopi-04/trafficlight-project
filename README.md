@@ -1,24 +1,24 @@
 # Traffic Information Acquisition System
 
-**Overview:**
+# Overview:
 
 The Traffic Information Acquisition System is designed to improve safety and efficiency in traffic management. Utilizing Arduino microcontrollers, ultrasonic sensors, relay modules, and LED lights, this system provides effective traffic control at street intersections and curved paths where visibility is limited.
 
-**Components:**
+# **Components:**
 
 - Arduino Microcontroller
 
 - Ultrasonic Sensors or LIDAR, Relay Module, LED Lights for Traffic Indication
 
-**Objectives:**
+# **Objectives:**
 
-Vehicle Detection: Detect various types of vehicles at street intersections and curves.
+- Vehicle Detection: Detect various types of vehicles at street intersections and curves.
 
-Traffic Signal Control: Use red and green LED lights to indicate traffic signals based on vehicle detection.
+- Traffic Signal Control: Use red and green LED lights to indicate traffic signals based on vehicle detection.
 
-**System Design:**
+# **System Design:**
 
-This system detects obstacles and controls traffic lights using the following cases:
+**This system detects obstacles and controls traffic lights using the following cases:**
 
 Case 1: When the obstacle does not interrupt the sensor signal or is more than 200cm away, the Green light is switched ON.
 
@@ -59,10 +59,6 @@ This system aims to enhance traffic control and management, contributing to road
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
-**License:**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 **If Obstacle is Detected:**
 
 ![traf2](https://github.com/user-attachments/assets/e739f2dc-ddb8-418b-a2dc-ab627b69ce5f)
@@ -83,3 +79,7 @@ https://github.com/user-attachments/assets/678e04af-ee1a-4bdb-ac93-8bddf936d241
 
 Arduino community for the microcontroller and support.
 Various online resources for tutorials and troubleshooting.
+
+**License:**
+
+This project is licensed under the MIT License - see the LICENSE file for details.

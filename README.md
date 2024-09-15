@@ -1,4 +1,4 @@
-# Traffic Information Acquisition System
+# Traffic Information Acquisition System using Arduino UNO
 
 # Overview:
 

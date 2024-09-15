@@ -24,14 +24,14 @@ Case 1: When the obstacle does not interrupt the sensor signal or is more than 2
 
 Case 2: When the obstacle interrupts the sensor signal or is less than 200cm away, the Red light is switched ON.
 
-**Installation:**
+# **Installation:**
 
 Clone the Repository
 ```bash
 git clone [https://github.com/Gopi-04/trafficlight-project/new/main?readme=1]
 ```
 
-**Components Setup:**
+# **Components Setup:**
 
 Connect the ultrasonic sensors to the Arduino.
 Wire the relay module to control the LED lights.
@@ -53,7 +53,7 @@ Ensure the Arduino and sensors are correctly powered.
 The system will detect the obstacles and switch between green and red lights based on the defined cases.
 If any obstacle is detected in the setup range, the LED will light red colour, if no object is detected, it will light red colour as usual.
 
-**Results:**
+# **Results:**
 
 This system aims to enhance traffic control and management, contributing to road safety and reducing traffic congestion.
 
@@ -69,17 +69,17 @@ If you would like to contribute to this project, please fork the repository and 
 ![traf1](https://github.com/user-attachments/assets/27010d5d-335e-44b5-80da-5b57062a41d5)
 
 
-**Video Demonstration:**
+# **Video Demonstration:**
 
 
 https://github.com/user-attachments/assets/678e04af-ee1a-4bdb-ac93-8bddf936d241
 
 
-**Acknowledgments:**
+# **Acknowledgments:**
 
 Arduino community for the microcontroller and support.
 Various online resources for tutorials and troubleshooting.
 
-**License:**
+# **License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.

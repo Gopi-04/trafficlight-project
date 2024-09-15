@@ -6,18 +6,22 @@ The Traffic Information Acquisition System is designed to improve safety and eff
 
 **Components:**
 
-Arduino Microcontroller
-Ultrasonic Sensors or LIDAR, Relay Module, LED Lights for Traffic Indication
+- Arduino Microcontroller
+
+- Ultrasonic Sensors or LIDAR, Relay Module, LED Lights for Traffic Indication
 
 **Objectives:**
 
 Vehicle Detection: Detect various types of vehicles at street intersections and curves.
+
 Traffic Signal Control: Use red and green LED lights to indicate traffic signals based on vehicle detection.
 
 **System Design:**
 
 This system detects obstacles and controls traffic lights using the following cases:
+
 Case 1: When the obstacle does not interrupt the sensor signal or is more than 200cm away, the Green light is switched ON.
+
 Case 2: When the obstacle interrupts the sensor signal or is less than 200cm away, the Red light is switched ON.
 
 **Installation:**

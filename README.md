@@ -1,5 +1,4 @@
-# trafficlight-project
-Traffic Information Acquisition System
+# Traffic Information Acquisition System
 
 **Overview:**
 

@@ -24,7 +24,6 @@ Case 2: When the obstacle interrupts the sensor signal or is less than 200cm awa
 
 Clone the Repository
 ```bash
-Copy code
 git clone [https://github.com/Gopi-04/trafficlight-project/new/main?readme=1]
 ```
 

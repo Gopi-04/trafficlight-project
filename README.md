@@ -33,9 +33,11 @@ git clone [https://github.com/Gopi-04/trafficlight-project/new/main?readme=1]
 
 # **Components Setup:**
 
-Connect the ultrasonic sensors to the Arduino.
-Wire the relay module to control the LED lights.
-Configure the LED lights for traffic indication.
+1)Connect the ultrasonic sensors to the Arduino.
+
+2)Wire the relay module to control the LED lights.
+
+3)Configure the LED lights for traffic indication.
 
 **Upload the Code:**
 

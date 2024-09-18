@@ -82,6 +82,6 @@ https://github.com/user-attachments/assets/678e04af-ee1a-4bdb-ac93-8bddf936d241
 Arduino community for the microcontroller and support.
 Various online resources for tutorials and troubleshooting.
 
-# **License:**
+# Contact
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+For any questions or feedback, please contact me at [pvgopi04@gmail.com](mailto:pvgopi04@gmail.com).
